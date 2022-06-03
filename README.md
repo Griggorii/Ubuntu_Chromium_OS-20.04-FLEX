@@ -12,3 +12,5 @@ Or buy this project and don't allow these binaries to be used by hash sums durin
 You can be the first large IT company who buys not from scammers, but from the creator of a special build of the linux OS system, I have been developing Linux on my YouTube channel for 8 years
 
 Griggorii@gmail.com
+
+https://github.com/Griggorii/Ubuntu_Chromium_OS-20.04-FLEX/blob/main/LICENSE
