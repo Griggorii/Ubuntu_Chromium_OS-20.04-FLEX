@@ -9,6 +9,8 @@
 [This is the first released version of the Lesser GPL.  It also counts
  as the successor of the GNU Library Public License, version 2, hence
  the version number 2.1.]
+ 
+It is forbidden to use in other distributions and distribution in packages removed by a cpan perl dump or other slon dump, except for personal use, after purchasing the project, you can use it in any way.
 
                             Preamble
 
