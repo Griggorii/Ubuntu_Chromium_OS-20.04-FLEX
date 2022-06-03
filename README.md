@@ -13,4 +13,6 @@ You can be the first large IT company who buys not from scammers, but from the c
 
 Griggorii@gmail.com
 
+At the moment, if you buy this project and it is stolen, then I will make a rebuild on another compiler that we will personally assure at the patent office if you have enough investment for these cases , since in the offices there may be false builders or people who are in certain circles specially deceiving it, then be careful, maybe I will turn something off in my country to these people.
+
 https://github.com/Griggorii/Ubuntu_Chromium_OS-20.04-FLEX/blob/main/LICENSE
