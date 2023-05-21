@@ -1,6 +1,8 @@
 # Ubuntu_Chromium_OS-20.04-FLEX
 commerical , lgpl , commerical and donation , plymouth , rebuilder professional , ubuntu 20.04
 
+bbe361e8528bf5599d4e6101ea22ff3c md5sum Ubuntu_20.04_bios_vendor.tar.xz
+
 Ubuntu 20.04 FLEX 
 
 sudo tar xvpf Ubuntu_20.04_bios_vendor.tar.xz -C/
